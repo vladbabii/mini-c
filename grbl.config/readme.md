@@ -34,3 +34,11 @@ Homing dir invert mask
 ```
 $23=
 ```
+
+Max rate, mm/min
+```
+$110=
+$111=
+$112=
+```
+

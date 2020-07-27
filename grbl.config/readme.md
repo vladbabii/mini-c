@@ -29,3 +29,8 @@ Hard limits (endstop)
 ```
 $21=1
 ```
+
+Homing dir invert mask
+```
+$23=
+```

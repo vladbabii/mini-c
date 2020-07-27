@@ -24,3 +24,8 @@ Soft limits enable - requires homing enabled
 ```
 $20=1
 ```
+
+Hard limits (endstop)
+```
+$21=1
+```

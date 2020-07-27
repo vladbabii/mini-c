@@ -35,10 +35,16 @@ Homing dir invert mask
 $23=
 ```
 
-Max rate, mm/min
+Max rate - x,y,z - mm/min
 ```
 $110=
 $111=
 $112=
 ```
+
+Max travel - x,y,z - mm
+```
+$130=
+$131=
+$132=
 

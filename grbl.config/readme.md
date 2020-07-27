@@ -8,7 +8,7 @@ Report mm
 $13=0
 ```
 
-Step rate per axis
+Step rate per axis - x,y,z - steps/mm
 ```
 $100=
 $101=
